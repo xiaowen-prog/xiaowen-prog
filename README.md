@@ -40,7 +40,7 @@
 
 ## 技能
 
-![RAG](https://img.shields.io/badge/RAG-1f2430?style=flat-square) ![Agent](https://img.shields.io/badge/Agent-1f2430?style=flat-square) ![Prompt 工程](https://img.shields.io/badge/Prompt_%E5%B7%A5%E7%A8%8B-1f2430?style=flat-square) ![AI 评测](https://img.shields.io/badge/AI_%E8%AF%84%E6%B5%8B-1f2430?style=flat-square) ![需求挖掘](https://img.shields.io/badge/%E9%9C%80%E6%B1%82%E6%8C%96%E6%8E%98-1f2430?style=flat-square) ![PRD](https://img.shields.io/badge/PRD-1f2430?style=flat-square) ![MVP](https://img.shields.io/badge/MVP-1f2430?style=flat-square) ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-1f2430?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1f2430?style=flat-square) ![Agent](https://img.shields.io/badge/Agent-1f2430?style=flat-square) ![AI 评测](https://img.shields.io/badge/AI_%E8%AF%84%E6%B5%8B-1f2430?style=flat-square) ![需求挖掘](https://img.shields.io/badge/%E9%9C%80%E6%B1%82%E6%8C%96%E6%8E%98-1f2430?style=flat-square) ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-1f2430?style=flat-square)
 
 ## 工具
 
