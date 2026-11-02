@@ -40,7 +40,7 @@
 
 ## 技能
 
-![RAG](https://img.shields.io/badge/RAG-1f2430?style=flat-square) ![Agent](https://img.shields.io/badge/Agent-1f2430?style=flat-square) ![AI 评测](https://img.shields.io/badge/AI_%E8%AF%84%E6%B5%8B-1f2430?style=flat-square) ![需求挖掘](https://img.shields.io/badge/%E9%9C%80%E6%B1%82%E6%8C%96%E6%8E%98-1f2430?style=flat-square) ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-1f2430?style=flat-square)
+![AI 评测与数据洞察](https://img.shields.io/badge/AI_%E8%AF%84%E6%B5%8B%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%B4%9E%E5%AF%9F-1f2430?style=flat-square) ![AI 技术（RAG / Agent）](https://img.shields.io/badge/AI_%E6%8A%80%E6%9C%AF%EF%BC%88RAG_%2F_Agent%EF%BC%89-1f2430?style=flat-square) ![需求洞察](https://img.shields.io/badge/%E9%9C%80%E6%B1%82%E6%B4%9E%E5%AF%9F-1f2430?style=flat-square) ![产品力](https://img.shields.io/badge/%E4%BA%A7%E5%93%81%E5%8A%9B-1f2430?style=flat-square) ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-1f2430?style=flat-square)
 
 ## 工具
 
