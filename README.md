@@ -11,7 +11,7 @@
 
 ## ⭐ 精选项目
 
-**开源 Skills**
+**🧩 开源 Skills**
 
 🧠 [**学习吸收教练**](https://github.com/xiaowen-prog/absorption-learning-coach)  
 通过闭卷回忆、迁移练习与疲劳感知辅导，帮助吸收文章和视频内容。
@@ -25,7 +25,7 @@
 🎨 [**Web Design Director**](https://github.com/xiaowen-prog/web-design-director)  
 为落地页、产品页和作品集确定设计方向、构图与验收。
 
-**个人网站**
+**🌐 个人网站**
 
 🌐 [**xiaowen-prog.github.io**](https://github.com/xiaowen-prog/xiaowen-prog.github.io)  
 把文章、个人标签与开源项目放在同一个空间。
@@ -41,7 +41,7 @@
 
 ---
 
-## 关于
+## 🙋 关于
 
 - AI 产品经理
 - 擅长 AI 评测：从数据里定位问题
