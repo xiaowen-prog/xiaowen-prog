@@ -4,9 +4,9 @@
 
 <p align="center"><sub>点击上方卡片，进入我的个人网站</sub></p>
 
-正在求职 AI 产品经理。
-我关注 AI、产品与创作：把一个问题拆开，把一种方法写成工具，再把想法放进真实的项目里。
-这里放着我写的开源 Skills、网页作品和协作项目。
+这个空间收录我对 AI、产品与创作的探索：把一个问题拆开，把一种方法写成工具，再把想法放进真实的项目里。
+
+作品还在生长，想法也会继续更新。
 
 [个人网站](https://xiaowen-prog.github.io/) · [文章](https://xiaowen-prog.github.io/#articles) · [GitHub](https://github.com/xiaowen-prog?tab=repositories)
 
@@ -14,19 +14,24 @@
 
 ## 项目
 
-全部公开项目，共 9 个（无 fork 仓库）。
+把想法，写成项目。以下为个人网站上展示的 5 个项目，按网站的分类整理。
 
-| 项目 | 简介 | 标签 |
-| --- | --- | --- |
-| [**ai-product-teardown**](https://github.com/xiaowen-prog/ai-product-teardown) | AI 产品拆解与竞品分析 Skill：真实场景取证、效果评测、人机分工、技术机制与可复核报告 | `Agent Skill` `竞品分析` |
-| [**product-project-proposal**](https://github.com/xiaowen-prog/product-project-proposal) | 通用产品立项报告 Skill：六模块框架、MVP、证据与假设、商业指标及立项建议 | `Agent Skill` `立项` |
-| [**cn-demand-discovery**](https://github.com/xiaowen-prog/cn-demand-discovery) | 中文细分需求挖掘与验证 Skill：为个人与小团队发掘、排序并低成本验证细分需求 | `Agent Skill` `需求挖掘` |
-| [**absorption-learning-coach**](https://github.com/xiaowen-prog/absorption-learning-coach) | 学习吸收教练 Skill：闭卷回忆、迁移练习与疲劳感知辅导，帮助吸收文章和视频 | `Agent Skill` `学习` |
-| [**wechat-longform-writing**](https://github.com/xiaowen-prog/wechat-longform-writing) | 公众号长文写作 Skill：给 Claude 用，写深度长文和行业观察稿，先大纲后全文、只用可查证案例 | `Agent Skill` `Claude` `写作` |
-| [**web-design-director**](https://github.com/xiaowen-prog/web-design-director) | 网页设计指导 Skill：为落地页、产品页、作品集定方向、构图和验收 | `Agent Skill` `网页设计` |
-| [**deepseek-stars**](https://github.com/xiaowen-prog/deepseek-stars) | 深度求索 · 群星闪耀时：人工智能的十二个关键时刻，一次滚动下潜（[在线预览](https://xiaowen-prog.github.io/deepseek-stars/)） | `JavaScript` `Three.js` `GSAP` |
-| [**nuanyu**](https://github.com/xiaowen-prog/nuanyu) | 暖屿 · AI 桌宠与榜样复盘（7 人协作） | `HTML` `团队协作` |
-| [**xiaowen-prog.github.io**](https://github.com/xiaowen-prog/xiaowen-prog.github.io) | 个人作品集网站：文章、个人标签与开源项目放在同一个空间 | `HTML` `GitHub Pages` |
+### 开源 Skills
+
+| 项目 | 简介 |
+| --- | --- |
+| [**学习吸收教练** · absorption-learning-coach](https://github.com/xiaowen-prog/absorption-learning-coach) | 通过闭卷回忆、迁移练习与疲劳感知辅导，帮助吸收文章和视频内容。 |
+| [**AI 产品拆解** · ai-product-teardown](https://github.com/xiaowen-prog/ai-product-teardown) | 真实场景取证、效果评测、人机分工、技术机制与可复核的产品分析。 |
+| [**中文细分需求挖掘与验证** · cn-demand-discovery](https://github.com/xiaowen-prog/cn-demand-discovery) | 面向个人与小团队，发掘、排序并低成本验证中国市场的细分产品需求。 |
+| [**Web Design Director** · web-design-director](https://github.com/xiaowen-prog/web-design-director) | 为落地页、产品页和作品集确定设计方向、构图与验收。 |
+
+### 个人网站
+
+| 项目 | 简介 |
+| --- | --- |
+| [**个人网站** · xiaowen-prog.github.io](https://github.com/xiaowen-prog/xiaowen-prog.github.io) | 把文章、个人标签与开源项目放在同一个空间。当前页面的源码也在这里。 |
+
+[全部 GitHub 项目 ↗](https://github.com/xiaowen-prog?tab=repositories)
 
 ---
 
@@ -43,11 +48,13 @@
 
 ## 技能与标签
 
-- **AI 产品分析**：AI 产品拆解、竞品分析、效果评测
-- **产品方法**：需求挖掘与验证、产品立项、MVP 设计
-- **Agent Skills**：为 AI Agent 编写可复用的工作流 Skill
-- **写作**：公众号长文、行业观察
-- **网页创作**：HTML / JavaScript、Three.js、GSAP、GitHub Pages
+**AI 能力**　`RAG` `Agent` `Prompt 工程` `模型选型` `AI 评测` `幻觉与安全边界`
+
+**产品**　`需求挖掘` `用户研究` `竞品分析` `PRD` `MVP` `数据指标` `A/B 实验`
+
+**落地**　`原型设计` `前端实现` `Vibe Coding`
+
+**表达**　`公众号写作` `行业观察`
 
 `AI 产品探索` `开源 Skills` `写作与思考` `网页创作`
 
@@ -61,8 +68,7 @@
 
 ## 关于
 
-- AI 产品经理求职中
-- 开源 6 个 AI Agent Skills
+- 开源 AI Agent Skills
 - 在公众号写 AI 与产品
 
-<sub>想聊聊 AI 产品？来 [个人网站](https://xiaowen-prog.github.io/#contact) 找到我。</sub>
+<sub>欢迎来 [个人网站](https://xiaowen-prog.github.io/#contact) 找到我。</sub>
